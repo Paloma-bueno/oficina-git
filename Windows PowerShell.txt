@@ -1,0 +1,8 @@
+O Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+Instale o PowerShell mais recente para obter novos recursos e aprimoramentos! https://aka.ms/PSWindows
+
+PS C:\Users\atend\Desktop> git branch
+fatal: not a git repository (or any of the parent directories): .git
+PS C:\Users\atend\Desktop>
